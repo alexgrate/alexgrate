@@ -15,7 +15,7 @@
 <h2 align="center"><b>📫 Connect with me</b></h2>
 
 <p align="center">
-  <a href="https://x.com/miriamodeyiany" target="_blank">
+  <a href="https://x.com/alexgrate" target="_blank">
     <img src="https://github.com/Fortune-Adekogbe/Fortune-Adekogbe/blob/main/twitter.png" alt="X (Twitter)" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="http://linkedin.com/in/aigbodion-dominion-336263254" target="_blank">
