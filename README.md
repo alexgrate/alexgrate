@@ -4,7 +4,7 @@
  
 **🎓 Computer Science student** passionate about leveraging technology to transform **healthcare and medicine**.
 
-**🤖** I’m a **full-stack web developer** currently taking a **Data Science course**. I explore the exciting intersection of **Artificial Intelligence** and **Healthcare**, building projects in Machine Learning, Natural Language Processing (NLP), Computer Vision (CV), and more — with the goal of developing impactful ML/AI models for medical applications.
+**🤖** I’m a **full-stack web developer** currently taking a **Data Science course**. I explore the exciting intersection of **Artificial Intelligence** and **Healthcare**, building projects in Machine Learning, Natural Language Processing (NLP), and more — with the goal of developing impactful ML/AI models for medical applications.
 
 **🌍** Beyond academics, I’m deeply committed to community impact through volunteering, mentoring, and open-source contributions.
 
