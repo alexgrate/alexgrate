@@ -39,5 +39,5 @@
 
 [![An image of @alexgrate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alexgrate)](https://holopin.io/@alexgrate)
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=6C63FF" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=alexgrate&style=flat-square&color=6C63FF" alt="Profile views"/>
 
